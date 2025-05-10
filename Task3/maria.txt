@@ -1,0 +1,10 @@
+maria ahmad ghanem
+this is just a test file for the python training
+Python is a powerful programming language used in many fields,
+including web development, data science, and automation.
+This file is created to help practice reading and analyzing text with Python scripts.
+Learning Python is fun and rewarding.
+Learning Python allows you to build scripts to automate boring tasks, analyze data, and develop web apps.
+One of the first things you learn in Python is how to handle files,
+read their contents, and manipulate text.
+Practice makes perfect!
